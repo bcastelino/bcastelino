@@ -83,4 +83,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph.svg">
 </picture>
 
+<!-- _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ -->
 ###
