@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Turning Data into Decisions ✔ | GenAI & LLM-Driven Data Analyst 💻</h3>
+<h3 align="center">Turning Data into Decisions <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/green-tick.gif" width="25px" height="25px"/> | GenAI & LLM-Driven Data Analyst <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/robot.gif" width="25px" height="25px"/></h3>
 
 ###
 
