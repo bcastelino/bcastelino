@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/wave.gif" width="25px" height="25px"/>, I'm Brian Denis Castelino!</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/wave.gif" width="25px" height="25px"/>, I'm Brian Denis Castelino! <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/emo.gif" width="25px" height="25px"/></h1>
 
 ###
 
