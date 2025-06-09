@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Brian Denis Castelino!!!</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/wave.gif" width="25px" height="25px"/>, I'm Brian Denis Castelino!</h1>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="center">🔗Connect with me!</h3>
+<h3 align="center">🔗Connect with me! <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/handshake.gif" width="30px" height="30px"/></h3>
 
 ###
 
