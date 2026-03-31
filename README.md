@@ -7,6 +7,39 @@
 ###
 
 ---
+<h3 align="center">Certified In</h3>
+
+###
+
+<div align="center">
+  <a href="https://achieve.snowflake.com/642c927d-9e94-4a64-9394-686e37cdbea1" target="_blank">
+    <img src="badge/cof_c03_badge.png" height="110" alt="SnowPro Core badge" />
+  </a>
+  <img width="8" />
+  <a href="https://achieve.snowflake.com/7f0bf120-e57e-460c-b7ed-af2063da5fdd" target="_blank">
+    <img src="badge/dea_c02_ade_badge.png" height="110" alt="SnowPro Data Engineer Advanced badge" />
+  </a>
+  <img width="8" />
+  <a href="https://credentials.databricks.com/abf2b2b0-f3f7-4a28-adb4-6781f7eaf24e" target="_blank">
+    <img src="badge/db_ade.png" height="110" alt="Databricks Data Engineer Associate badge" />
+  </a>
+  <img width="8" />
+  <a href="https://credentials.databricks.com/bf771d59-b364-4fa5-9089-33861f81728a" target="_blank">
+    <img src="badge/db_agai.png" height="110" alt="Databricks Generative AI Engineer Associate badge" />
+  </a>
+  <img width="8" />
+  <a href="https://www.credly.com/badges/6c5ffc1e-4f08-4555-9829-96dde693a7a2/public_url" target="_blank">
+    <img src="badge/gcp_badge.png" height="110" alt="Google Cloud Associate Cloud Engineer badge" />
+  </a>
+  <img width="8" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BrianCastelino/397BBEF8F4BAB443" target="_blank">
+    <img src="badge/microsoft-certified-associate-badge.png" height="110" alt="Microsoft Certified Associate badge" />
+  </a>
+</div>
+
+###
+
+---
 <p align="center"><strong>Data Engineering Core</strong></p>
 
 <div align="center">
@@ -43,39 +76,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker" height="52" alt="Dev tools icons" />
-</div>
-
-###
-
----
-<h3 align="center">🏅Certifications & Badges</h3>
-
-###
-
-<div align="center">
-  <a href="https://achieve.snowflake.com/642c927d-9e94-4a64-9394-686e37cdbea1" target="_blank">
-    <img src="badge/cof_c03_badge.png" height="110" alt="SnowPro Core badge" />
-  </a>
-  <img width="8" />
-  <a href="https://achieve.snowflake.com/7f0bf120-e57e-460c-b7ed-af2063da5fdd" target="_blank">
-    <img src="badge/dea_c02_ade_badge.png" height="110" alt="SnowPro Data Engineer Advanced badge" />
-  </a>
-  <img width="8" />
-  <a href="https://credentials.databricks.com/abf2b2b0-f3f7-4a28-adb4-6781f7eaf24e" target="_blank">
-    <img src="badge/db_ade.png" height="110" alt="Databricks Data Engineer Associate badge" />
-  </a>
-  <img width="8" />
-  <a href="https://credentials.databricks.com/bf771d59-b364-4fa5-9089-33861f81728a" target="_blank">
-    <img src="badge/db_agai.png" height="110" alt="Databricks Generative AI Engineer Associate badge" />
-  </a>
-  <img width="8" />
-  <a href="https://www.credly.com/badges/6c5ffc1e-4f08-4555-9829-96dde693a7a2/public_url" target="_blank">
-    <img src="badge/gcp_badge.png" height="110" alt="Google Cloud Associate Cloud Engineer badge" />
-  </a>
-  <img width="8" />
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BrianCastelino/397BBEF8F4BAB443" target="_blank">
-    <img src="badge/microsoft-certified-associate-badge.png" height="110" alt="Microsoft Certified Associate badge" />
-  </a>
 </div>
 
 ###
