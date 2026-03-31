@@ -45,15 +45,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,kafka,aws,gcp,azure" height="52" alt="Data engineering core icons" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="50" alt="Databricks" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" alt="Databricks" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="50" alt="Snowflake" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="45" alt="Snowflake" />
   <img width="8" />
-  <img src="https://dbtlabsinc.gallerycdn.vsassets.io/extensions/dbtlabsinc/dbt/0.59.1/1774641717064/Microsoft.VisualStudio.Services.Icons.Default" height="45" alt="dbt" />
+  <img src="https://dbtlabsinc.gallerycdn.vsassets.io/extensions/dbtlabsinc/dbt/0.59.1/1774641717064/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="dbt" />
   <img width="8" />
-  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR" height="45" alt="Airflow" />
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR" height="40" alt="Airflow" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="43" alt="Postman" />
 </div>
 
 ---
