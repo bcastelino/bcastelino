@@ -2,40 +2,76 @@
 
 ###
 
-<h3 align="center">Turning Data into Decisions <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/green-tick.gif" width="25px" height="25px"/> | GenAI & LLM-Driven Data Analyst <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/robot.gif" width="25px" height="25px"/></h3>
+<h3 align="center">Turning Data into Decisions <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/green-tick.gif" width="25px" height="25px"/> | AI & Data Engineer <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/robot.gif" width="25px" height="25px"/></h3>
+
+###
+
+<p align="center"><strong>Data Engineering Core</strong></p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,kafka,aws,gcp,azure" height="52" alt="Data engineering core icons" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="52" alt="Databricks" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="52" alt="Snowflake" />
+  <img width="8" />
+  <img src="https://dbtlabsinc.gallerycdn.vsassets.io/extensions/dbtlabsinc/dbt/0.59.1/1774641717064/Microsoft.VisualStudio.Services.Icons.Default" height="52" alt="dbt" />
+  <img width="8" />
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR" height="52" alt="Airflow" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="52" alt="Postman" />
+</div>
+
+<p align="center"><strong>AI Engineering Core</strong></p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch,sklearn,docker" height="52" alt="AI engineering core icons" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="52" alt="Hugging Face" />
+  <img width="8" />
+  <img src="https://dt-cdn.net/hub/ollama-icon.png" height="52" alt="Llama" />
+  <img width="8" />
+  <img src="https://alfred.app/workflows/alfredapp/openai/icon.png" height="55" alt="OpenAI" />
+  <img width="8" />
+  <img src="https://timingapp.com/cdn-cgi/image/format=auto,width=256/img/app-icons/com.anthropic.claudefordesktop/icon_128x128_2x.png" height="55" alt="Anthropic" />
+</div>
+
+<p align="center"><strong>Dev Tools</strong></p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker" height="52" alt="Dev tools icons" />
+</div>
+
+###
+
+<h3 align="center">🏅Certifications & Badges</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <a href="https://achieve.snowflake.com/642c927d-9e94-4a64-9394-686e37cdbea1" target="_blank">
+    <img src="badge/cof_c03_badge.png" height="110" alt="SnowPro Core badge" />
+  </a>
+  <img width="8" />
+  <a href="https://achieve.snowflake.com/7f0bf120-e57e-460c-b7ed-af2063da5fdd" target="_blank">
+    <img src="badge/dea_c02_ade_badge.png" height="110" alt="SnowPro Data Engineer Advanced badge" />
+  </a>
+  <img width="8" />
+  <a href="https://credentials.databricks.com/abf2b2b0-f3f7-4a28-adb4-6781f7eaf24e" target="_blank">
+    <img src="badge/db_ade.png" height="110" alt="Databricks Data Engineer Associate badge" />
+  </a>
+  <img width="8" />
+  <a href="https://credentials.databricks.com/bf771d59-b364-4fa5-9089-33861f81728a" target="_blank">
+    <img src="badge/db_agai.png" height="110" alt="Databricks Generative AI Engineer Associate badge" />
+  </a>
+  <img width="8" />
+  <a href="https://www.credly.com/badges/6c5ffc1e-4f08-4555-9829-96dde693a7a2/public_url" target="_blank">
+    <img src="badge/gcp_badge.png" height="110" alt="Google Cloud Associate Cloud Engineer badge" />
+  </a>
+  <img width="8" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BrianCastelino/397BBEF8F4BAB443" target="_blank">
+    <img src="badge/microsoft-certified-associate-badge.png" height="110" alt="Microsoft Certified Associate badge" />
+  </a>
 </div>
 
 ###
@@ -46,19 +82,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cas7elino/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:briancastelino07@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/cas7elino" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/cas7elino" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="mailto:bcasteli@gmu.edu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="25" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+  </a>
+  <a href="https://x.com/cas7elino" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/cas7elino" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
@@ -72,7 +108,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bcastelino&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak_graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bcastelino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
