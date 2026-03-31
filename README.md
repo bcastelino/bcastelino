@@ -6,22 +6,24 @@
 
 ###
 
+---
 <p align="center"><strong>Data Engineering Core</strong></p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,kafka,aws,gcp,azure" height="52" alt="Data engineering core icons" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="52" alt="Databricks" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="50" alt="Databricks" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="52" alt="Snowflake" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="50" alt="Snowflake" />
   <img width="8" />
-  <img src="https://dbtlabsinc.gallerycdn.vsassets.io/extensions/dbtlabsinc/dbt/0.59.1/1774641717064/Microsoft.VisualStudio.Services.Icons.Default" height="52" alt="dbt" />
+  <img src="https://dbtlabsinc.gallerycdn.vsassets.io/extensions/dbtlabsinc/dbt/0.59.1/1774641717064/Microsoft.VisualStudio.Services.Icons.Default" height="45" alt="dbt" />
   <img width="8" />
-  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR" height="52" alt="Airflow" />
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR" height="45" alt="Airflow" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="52" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" alt="Postman" />
 </div>
 
+---
 <p align="center"><strong>AI Engineering Core</strong></p>
 
 <div align="center">
@@ -29,13 +31,14 @@
   <img width="8" />
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="52" alt="Hugging Face" />
   <img width="8" />
-  <img src="https://dt-cdn.net/hub/ollama-icon.png" height="52" alt="Llama" />
+  <img src="https://dt-cdn.net/hub/ollama-icon.png" height="55" alt="Llama" />
   <img width="8" />
-  <img src="https://alfred.app/workflows/alfredapp/openai/icon.png" height="55" alt="OpenAI" />
+  <img src="https://alfred.app/workflows/alfredapp/openai/icon.png" height="60" alt="OpenAI" />
   <img width="8" />
-  <img src="https://timingapp.com/cdn-cgi/image/format=auto,width=256/img/app-icons/com.anthropic.claudefordesktop/icon_128x128_2x.png" height="55" alt="Anthropic" />
+  <img src="https://timingapp.com/cdn-cgi/image/format=auto,width=256/img/app-icons/com.anthropic.claudefordesktop/icon_128x128_2x.png" height="60" alt="Anthropic" />
 </div>
 
+---
 <p align="center"><strong>Dev Tools</strong></p>
 
 <div align="center">
@@ -44,6 +47,7 @@
 
 ###
 
+---
 <h3 align="center">🏅Certifications & Badges</h3>
 
 ###
@@ -76,6 +80,29 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bcastelino.bcastelino&"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bcastelino&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak_graph"  />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ -->
+###
+
+---
 <h3 align="center">🔗Connect with me! <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/handshake.gif" width="30px" height="30px"/></h3>
 
 ###
@@ -98,26 +125,6 @@
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bcastelino.bcastelino&"  />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bcastelino&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak_graph"  />
-  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph.svg">
-</picture>
-
-<!-- _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ -->
 ###
