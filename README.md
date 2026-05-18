@@ -1,11 +1,5 @@
 <!-- ============== HERO ============== -->
-<p align="center">
-  <a href="https://github.com/bcastelino">
-    <img src="https://github.com/bcastelino.png" width="140" height="140" style="border-radius:50%;" alt="Brian Denis Castelino" />
-  </a>
-</p>
-
-<h1 align="center">Hi, I'm Brian Denis Castelino</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/wave.gif" width="28" height="28"/>, I'm Brian Denis Castelino</h1>
 <h2 align="center"><em>AI &amp; Data Engineer</em></h2>
 
 <p align="center">
