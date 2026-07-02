@@ -9,13 +9,14 @@
 
 <p align="center">
   <a href="https://github.com/bcastelino?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Projects%20%E2%86%93-000000?style=for-the-badge&labelColor=000000&color=000000" alt="View Projects" />
+    <img src="https://img.shields.io/badge/View%20Projects%20%E2%86%93-000000?style=flat&labelColor=000000&color=000000" alt="View Projects" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cas7elino/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:briancastelino07@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bcastelino.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/cas7elino/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:briancastelino07@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bcastelino.bcastelino&left_text=Profile%20Views" alt="Profile views" />
 </p>
 <!-- ============ END HERO ============ -->
@@ -64,12 +65,9 @@
 
 ## 🧰 Tech Stack
 
-<details open>
-<summary><strong>Data Engineering</strong></summary>
-<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,kafka,aws,gcp,azure" height="48" alt="Data engineering core" />
-  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python,aws,gcp,azure" height="48" alt="Languages & Cloud" />
+  &nbsp;&nbsp;
   <img src="https://cdn.brandfetch.io/databricks.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Databricks" />
   &nbsp;
   <img src="https://cdn.brandfetch.io/snowflake.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Snowflake" />
@@ -77,43 +75,21 @@
   <img src="https://cdn.brandfetch.io/getdbt.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="dbt" />
   &nbsp;
   <img src="https://cdn.brandfetch.io/airflow.apache.org/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Apache Airflow" />
-  &nbsp;
-  <img src="https://cdn.brandfetch.io/postman.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Postman" />
-</div>
-</details>
-
-<details open>
-<summary><strong>AI &amp; Machine Learning</strong></summary>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch,sklearn" height="48" alt="AI engineering core" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" />
   &nbsp;
   <img src="https://cdn.brandfetch.io/huggingface.co/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Hugging Face" />
-  &nbsp;
-  <img src="https://cdn.brandfetch.io/ollama.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Ollama" />
   &nbsp;
   <img src="https://cdn.brandfetch.io/openai.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="OpenAI" />
   &nbsp;
   <img src="https://cdn.brandfetch.io/anthropic.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Anthropic" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" height="48" alt="Dev Tools" />
 </div>
-</details>
-
-<details open>
-<summary><strong>Dev Tools</strong></summary>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker" height="48" alt="Dev tools" />
-</div>
-</details>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bcastelino&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=8&order=3" height="160" alt="GitHub streak" />
-  <img src="./profile/top-langs.svg" height="160" alt="Top languages" />
-</div>
+## 📊 Commit Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph-dark.svg">
