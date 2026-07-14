@@ -1,100 +1,32 @@
-<!-- ============== HERO ============== -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/gif/wave.gif" width="28" height="28"/>, I'm Brian Denis Castelino</h1>
-<h2 align="center"><em>AI &amp; Data Engineer</em></h2>
+<h1 align="center">Hi, I'm Brian Denis Castelino</h1>
 
-<p align="center">
-  <em>Turning data into decisions - designing scalable data platforms and<br/>
-  shipping production-grade ML &amp; GenAI solutions with modern tooling.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bcastelino?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Projects%20%E2%86%93-000000?style=flat&labelColor=000000&color=000000" alt="View Projects" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://bcastelino.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/cas7elino/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:briancastelino07@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bcastelino.bcastelino&left_text=Profile%20Views" alt="Profile views" />
-</p>
-<!-- ============ END HERO ============ -->
-
----
-
-## About Me
-
-- 🛠️ **AI &amp; Data Engineer** with hands-on experience designing scalable data platforms and shipping production-grade ML/GenAI solutions.
-- ☁️ Comfortable across the modern data stack - **Snowflake, Databricks, dbt, Airflow** - and the major clouds **(AWS, GCP, Azure)**.
-- 🤖 Passionate about **LLMs, RAG systems, and applied GenAI** - building tools that turn raw data into real decisions.
-- 🎓 Currently sharpening my craft at **[WorldLink US](https://worldlink-us.ai/)**.
-- ✉️ Open to collaboration - reach out via **[LinkedIn](https://www.linkedin.com/in/cas7elino/)** or **<briancastelino07@gmail.com>**.
-
----
-
-## 🏅 Certifications
+<br/>
 
 <div align="center">
-  <a href="https://achieve.snowflake.com/642c927d-9e94-4a64-9394-686e37cdbea1" target="_blank">
-    <img src="badge/cof_c03_badge.png" height="110" alt="SnowPro Core" />
-  </a>
-  &nbsp;
-  <a href="https://achieve.snowflake.com/7f0bf120-e57e-460c-b7ed-af2063da5fdd" target="_blank">
-    <img src="badge/dea_c02_ade_badge.png" height="110" alt="SnowPro Data Engineer Advanced" />
-  </a>
-  &nbsp;
-  <a href="https://credentials.databricks.com/abf2b2b0-f3f7-4a28-adb4-6781f7eaf24e" target="_blank">
-    <img src="badge/db_ade.png" height="110" alt="Databricks Data Engineer Associate" />
-  </a>
-  &nbsp;
-  <a href="https://credentials.databricks.com/bf771d59-b364-4fa5-9089-33861f81728a" target="_blank">
-    <img src="badge/db_agai.png" height="110" alt="Databricks Generative AI Engineer Associate" />
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/6c5ffc1e-4f08-4555-9829-96dde693a7a2/public_url" target="_blank">
-    <img src="badge/gcp_badge.png" height="110" alt="Google Cloud Associate Cloud Engineer" />
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/BrianCastelino/397BBEF8F4BAB443" target="_blank">
-    <img src="badge/microsoft-certified-associate-badge.png" height="110" alt="Microsoft Certified Associate" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bcastelino/bcastelino/main/dark_mode.svg">
+    <img width="100%" alt="Brian Castelino's profile, certifications, links, and live GitHub stats" src="https://raw.githubusercontent.com/bcastelino/bcastelino/main/light_mode.svg">
+  </picture>
 </div>
+
+<p align="center">
+  <a href="https://bcastelino.github.io/" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.brandfetch.io/domain/bcastelino.github.io/w/64/h/64/theme/light/fallback/lettermark?c=1idZY2KhDyaY3NAdbPP"><img src="https://cdn.brandfetch.io/domain/bcastelino.github.io/w/64/h/64/theme/dark/fallback/lettermark?c=1idZY2KhDyaY3NAdbPP" width="30" height="30" alt="Portfolio" /></picture></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cas7elino/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.brandfetch.io/domain/linkedin.com/w/64/h/64/theme/light/fallback/lettermark?c=1idZY2KhDyaY3NAdbPP"><img src="https://cdn.brandfetch.io/domain/linkedin.com/w/64/h/64/theme/dark/fallback/lettermark?c=1idZY2KhDyaY3NAdbPP" width="30" height="30" alt="LinkedIn" /></picture></a>
+  &nbsp;&nbsp;
+  <a href="mailto:briancastelino07@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.brandfetch.io/domain/gmail.com/w/64/h/64/theme/light/fallback/lettermark?c=1idZY2KhDyaY3NAdbPP"><img src="https://cdn.brandfetch.io/domain/gmail.com/w/64/h/64/theme/dark/fallback/lettermark?c=1idZY2KhDyaY3NAdbPP" width="30" height="30" alt="Email" /></picture></a>
+</p>
+
+<p align="center"><sub><em>Live GitHub data refreshes daily.</em></sub></p>
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,gcp,azure" height="48" alt="Languages & Cloud" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/databricks.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Databricks" />
-  &nbsp;
-  <img src="https://cdn.brandfetch.io/snowflake.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Snowflake" />
-  &nbsp;
-  <img src="https://cdn.brandfetch.io/getdbt.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="dbt" />
-  &nbsp;
-  <img src="https://cdn.brandfetch.io/airflow.apache.org/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Apache Airflow" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" />
-  &nbsp;
-  <img src="https://cdn.brandfetch.io/huggingface.co/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Hugging Face" />
-  &nbsp;
-  <img src="https://cdn.brandfetch.io/openai.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="OpenAI" />
-  &nbsp;
-  <img src="https://cdn.brandfetch.io/anthropic.com/h/52/theme/light/fallback/404?c=1idZY2KhDyaY3NAdbPP" height="48" alt="Anthropic" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" height="48" alt="Dev Tools" />
-</div>
-
----
-
-## 📊 Commit Activity
+## Commit Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pacman contribution graph" src="https://raw.githubusercontent.com/bcastelino/bcastelino/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
