@@ -7,6 +7,11 @@ from lxml import etree
 import time
 import hashlib
 
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CACHE_DIR = os.path.join(ROOT, 'data', 'cache')
+PROFILE_DIR = os.path.join(ROOT, 'assets', 'profile')
+BADGE_DIR = os.path.join(ROOT, 'assets', 'badges')
+
 try:
     from dotenv import load_dotenv
     load_dotenv(override=True)
@@ -150,7 +155,7 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
 def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
     """Updates the per-repo LOC cache only for repositories whose commit count changed."""
     cached = True
-    filename = 'cache/' + hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest() + '.txt'
+    filename = os.path.join(CACHE_DIR, hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest() + '.txt')
     try:
         with open(filename, 'r') as f:
             data = f.readlines()
@@ -204,7 +209,7 @@ def flush_cache(edges, filename, comment_size):
 
 def force_close_file(data, cache_comment):
     """Preserves partial cache data if the program crashes mid-write."""
-    filename = 'cache/' + hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest() + '.txt'
+    filename = os.path.join(CACHE_DIR, hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest() + '.txt')
     with open(filename, 'w') as f:
         f.writelines(cache_comment)
         f.writelines(data)
@@ -239,7 +244,7 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
 def embed_badges(root):
     for image in root.findall(".//*[@data-badge-src]"):
         badge_path = image.get('data-badge-src')
-        absolute_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), badge_path)
+        absolute_path = os.path.join(BADGE_DIR, os.path.basename(badge_path))
         with open(absolute_path, 'rb') as badge_file:
             encoded = base64.b64encode(badge_file.read()).decode('ascii')
         image.set('href', f'data:image/png;base64,{encoded}')
@@ -269,7 +274,7 @@ def find_and_replace(root, element_id, new_text):
 def commit_counter(comment_size):
     """Counts total commits using the cache file built by cache_builder."""
     total_commits = 0
-    filename = 'cache/' + hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest() + '.txt'
+    filename = os.path.join(CACHE_DIR, hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest() + '.txt')
     with open(filename, 'r') as f:
         data = f.readlines()
     data = data[comment_size:]
@@ -336,8 +341,8 @@ if __name__ == '__main__':
     for index in range(len(total_loc) - 1):
         total_loc[index] = '{:,}'.format(total_loc[index])
 
-    svg_overwrite('dark_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, total_loc[:-1])
-    svg_overwrite('light_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, total_loc[:-1])
+    svg_overwrite(os.path.join(PROFILE_DIR, 'dark_mode.svg'), age_data, commit_data, star_data, repo_data, contrib_data, follower_data, total_loc[:-1])
+    svg_overwrite(os.path.join(PROFILE_DIR, 'light_mode.svg'), age_data, commit_data, star_data, repo_data, contrib_data, follower_data, total_loc[:-1])
 
     print('\033[F\033[F\033[F\033[F\033[F\033[F\033[F\033[F',
         '{:<21}'.format('Total function time:'), '{:>11}'.format('%.4f' % (user_time + age_time + loc_time + commit_time + star_time + repo_time + contrib_time)),

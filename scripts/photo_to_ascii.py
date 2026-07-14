@@ -3,11 +3,11 @@ Convert a photo into ASCII art and inject it into the stats SVGs.
 
 Usage:
     pip install pillow lxml
-    python tools/photo_to_ascii.py assets/me.jpg
-    python tools/photo_to_ascii.py assets/me.jpg --width 36 --dy 17
+    python scripts/photo_to_ascii.py assets/me.jpg
+    python scripts/photo_to_ascii.py assets/me.jpg --width 36 --dy 17
 
 It replaces the contents of the <text id="ascii_art"> element in both
-dark_mode.svg and light_mode.svg. The dark card uses a normal brightness
+assets/profile/dark_mode.svg and assets/profile/light_mode.svg. The dark card uses a normal brightness
 ramp (bright pixels -> dense chars) and the light card uses the inverted
 ramp so the portrait reads correctly on each background.
 """
@@ -20,6 +20,7 @@ from lxml import etree
 RAMP = " .:-=+*#%@"
 SVG_NS = 'http://www.w3.org/2000/svg'
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PROFILE_DIR = os.path.join(ROOT, 'assets', 'profile')
 
 
 def prep_rgba(path, crop=None, pad=0.06, blur=0.6, max_aspect=1.15):
@@ -103,7 +104,7 @@ def to_rows(img, width, invert, levels=0, char_aspect=0.52):
 
 
 def inject(svg_name, lines, x=15, y0=28, dy=17):
-    svg_path = os.path.join(ROOT, svg_name)
+    svg_path = os.path.join(PROFILE_DIR, svg_name)
     tree = etree.parse(svg_path)
     root = tree.getroot()
     el = root.find(".//*[@id='ascii_art']")
