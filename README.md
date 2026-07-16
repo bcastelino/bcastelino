@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://bcastelino.github.io/#contact">
     <img src="https://img.shields.io/badge/Hiring%3F_Ready_to_see_how_I_do_it%3F-Let's_talk-2ea44f?style=flat&logo=maildotru&logoColor=white" alt="Contact Brian" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=bcastelino.bcastelino&left_text=Profile%20Views" alt="Profile views" />
   </a>
 </p>
 
