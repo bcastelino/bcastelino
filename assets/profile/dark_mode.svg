@@ -36,7 +36,7 @@ text, tspan { white-space: pre; }
 <text x="450" y="40" fill="#c9d1d9" class="details">
 <tspan x="450" y="40"><tspan class="value">github</tspan><tspan class="cc">@</tspan><tspan class="value">bcastelino</tspan><tspan class="cc"> ───────────────────────────────────────</tspan></tspan>
 <tspan x="450" y="64"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">AI &amp; Data Engineer</tspan></tspan>
-<tspan x="450" y="84"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value" id="age_data">28 years, 10 months, 2 days</tspan></tspan>
+<tspan x="450" y="84"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value" id="age_data">28 years, 10 months, 3 days</tspan></tspan>
 <tspan x="450" y="104"><tspan class="cc">. </tspan><tspan class="key">Company</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">WorldLink US</tspan></tspan>
 <tspan x="450" y="132"><tspan class="name">- Engineering Stack </tspan><tspan class="cc">───────────────────────</tspan></tspan>
 <tspan x="450" y="156"><tspan class="cc">. </tspan><tspan class="key">Code</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Python, SQL, Bash</tspan></tspan>
