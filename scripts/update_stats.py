@@ -220,7 +220,12 @@ def stars_counter(data):
     """Counts total stars in repositories owned by me."""
     total_stars = 0
     for node in data:
-        total_stars += node['node']['stargazers']['totalCount']
+        repo = node.get('node') if isinstance(node, dict) else None
+        if not repo:
+            continue
+        stargazers = repo.get('stargazers')
+        if stargazers:
+            total_stars += stargazers.get('totalCount', 0)
     return total_stars
 
 
